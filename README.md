@@ -8,7 +8,8 @@ project.
 There is no need to change the TFT_eSPI configuration -- that is taken care of automatically
 by the Lilygo header files.
 
-None of the code is mine. I have resisted the temptation to tidy some rather messy code.
+None of the code is mine. I have resisted the temptation to tidy some rather messy code. UPDATE: I
+failed to resist. More tidying to be done.
 
 ## References
 
