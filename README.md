@@ -8,6 +8,8 @@ project.
 There is no need to change the TFT_eSPI configuration -- that is taken care of automatically
 by the Lilygo header files.
 
+None of the code is mine. I have resisted the temptation to tidy some rather messy code.
+
 ## References
 
 [Lilygo T-Display S3 AMOLED repository](https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series)
